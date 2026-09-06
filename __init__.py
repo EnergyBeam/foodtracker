@@ -1,0 +1,1 @@
+"""Pantry Telegram bot package."""
